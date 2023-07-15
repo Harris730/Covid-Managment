@@ -1,0 +1,18 @@
+/////////////////////////////////////////////////////////
+//////////////////// Data Header File ///////////////////
+////////////////////////////////////////////////////////
+
+
+#pragma once
+#include<string>
+using namespace std;
+class Data
+{
+public:
+	int Patient_id;
+	string Patient_name;
+	int Patient_age;
+	Data();
+	Data(int id, string name, int age);
+};
+

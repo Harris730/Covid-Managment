@@ -1,0 +1,23 @@
+Pateint ID           : 125
+Patient Name         : salman
+Patient Age          : 23
+Symptoms of Patient  : fever
+Immune Level         : 9
+Severity of Patient  : high
+Patient City         : Rwp
+
+Pateint ID           : 127
+Patient Name         : Hassan
+Patient Age          : 19
+Symptoms of Patient  : fever
+Immune Level         : 8
+Severity of Patient  : high
+Patient City         : Isb
+
+Pateint ID           : 130
+Patient Name         : Raza
+Patient Age          : 27
+Symptoms of Patient  : fever
+Immune Level         : 7
+Severity of Patient  : high
+Patient City         : Rwp
