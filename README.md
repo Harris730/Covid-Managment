@@ -7,14 +7,14 @@ This system will be able to check any type of information given at the time of P
 - ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/717892ba-e9c8-4a3f-ac32-3802a2db52fa)
 - ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/5a552d9f-5d92-4bd3-b593-cc8a4ad2c81b)
 
-## Feature
+## Features
 - Add option will ask the  for the Patient ID , Patient Name , Patient Age , Patient Symptoms , Patient Immune  Level , Patient Severity , Patient City and save it in a PatientFile if Immune level is higher than 10 and Symptoms are normal otherwise add in CoronaFile.
 - We can check no. of Corona Patient from overall Patient’s data.
 - We can delete Patient record by giving choice if he wants to delete record from Patient File or Corona Patient file.
 - Update Patient record by giving choice if he wants to update record.
 
 ## Technologies Used
-- Programming Language: 'c++'
+- Programming Language: 'C++'
 
 ## Setup and Installation
 To set up and run , follow these steps:
