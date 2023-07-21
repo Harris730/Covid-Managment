@@ -1,7 +1,8 @@
 # Covid-Managment
 - ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/434483fd-e4f6-410a-b3a3-00f1dd761ff2)
-- ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/01760491-8dc5-4451-bbae-16dd9d5d5e35)
-- 
+- ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/717892ba-e9c8-4a3f-ac32-3802a2db52fa)
+- ![image](https://github.com/Harris730/Covid-Managment/assets/128912747/5a552d9f-5d92-4bd3-b593-cc8a4ad2c81b)
+
 
 ## Overview
 This system will be able to check any type of information given at the time of Patient Creation. From this management system, a Management can easily check the information about Patient whether he is Corona Patient or not. He can also be able to maintain, delete and update record of patient.
