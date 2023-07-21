@@ -12,4 +12,25 @@ This system will be able to check any type of information given at the time of P
 - We can check no. of Corona Patient from overall Patient’s data.
 - We can delete Patient record by giving choice if he wants to delete record from Patient File or Corona Patient file.
 - Update Patient record by giving choice if he wants to update record.
-- 
+
+## Technologies Used
+- Programming Language: 'c++'
+
+## Setup and Installation
+To set up and run , follow these steps:
+1. Clone the repository: `https://github.com/Harris730/Covid-Managment.git`
+2. Build and run the application using the appropriate commands.
+3. Access the application in your desktop.
+
+## Contribution Guidelines
+If you would like to contribute to this project, please follow the guidelines below:
+
+1. Fork the repository and create a new branch for your feature or bug fix.
+2. Make your changes and ensure the code passes all tests.
+3. Commit your changes and provide a descriptive commit message.
+4. Push your branch to your forked repository.
+5. Submit a pull request with a detailed explanation of your changes.
+
+## Contact
+For any inquiries or feedback, please contact harrisimran78@gmail.com .
+
